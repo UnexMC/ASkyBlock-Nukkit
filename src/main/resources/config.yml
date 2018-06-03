@@ -19,7 +19,8 @@ allowUpdate: false
 ## Locale language
 ##  Locale is CASE_SENSITIVE!
 ##  Available locales are:
-##    en-US.
+##    English
+##    German
 defaultlanguage: "en-US"
 # Team chatting
 teamChat: true
